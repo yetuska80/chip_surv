@@ -2,7 +2,7 @@
 outcome linked to seq
 # Purpose
 finding connections between genes and survival
-##Tasks##
+## Tasks ##
 ## finding data sources
 ### normal
 *data bases*
