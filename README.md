@@ -1,4 +1,4 @@
-# chip_surv
+chip_surv
 outcome linked to seq
 # Purpose
 finding connections between genes and survival
